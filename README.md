@@ -15,7 +15,7 @@ Jupyter Notebook
 Libraries: pandas, numpy, seaborn, matplotlib, scikit-learn, xgboost, catboost, lightgbm
 Data
 
-Ensure your dataset (e.g., "clean_Dataset.csv") is in the specified file path.
+Ensure your dataset is in the specified file path.
 
 Code Structure
 
