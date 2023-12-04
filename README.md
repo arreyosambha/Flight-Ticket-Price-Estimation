@@ -34,3 +34,8 @@ How to Use
 Install required libraries using pip install -r requirements.txt.
 Adjust the file path in the code to your dataset location.
 Run the code in a Jupyter Notebook or any Python environment.
+
+Dataset Link
+
+https://www.kaggle.com/code/julienjta/flight-price-prediction-98-47-r2-score/input
+
